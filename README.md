@@ -23,7 +23,7 @@ This helped me understand how digital circuits are verified and tested in real e
 
 ## Example Output
 The table below shows randomised results from the Verilator simulation.  
-A ✔️ means the ALU output matched the expected value.
+The tick next to A means the ALU output matched the expected value.
 
 ![Example Output](Example_Output.png)
 
